@@ -1,0 +1,82 @@
+[20:40:25] Jogador 'Pedro' entrou no jogo (127.0.0.1:60970)
+[20:40:38] Pedro recebeu a carta 11. Total: 11
+[20:41:06] Jogador 'Ana' entrou no jogo (127.0.0.1:56611)
+[20:41:11] Ana recebeu a carta 4. Total: 4
+[20:41:17] Pedro recebeu a carta 1. Total: 12
+[20:41:22] Ana recebeu a carta 2. Total: 6
+[20:41:27] Pedro recebeu a carta 7. Total: 19
+[20:41:32] Ana recebeu a carta 2. Total: 8
+[20:41:36] Pedro recebeu a carta 9. Total: 28
+[20:41:39] Ana recebeu a carta 6. Total: 14
+[20:41:42] Ana parou com 14 pontos.
+[20:41:42] Pedro PERDEU com 28 pontos.
+[20:41:42] Ana GANHOU com 14 pontos.
+[20:41:42] Rodada finalizada.
+[20:48:07] Jogador 'Pedro' entrou no jogo (127.0.0.1:63866)
+[20:48:09] Pedro recebeu a carta 7. Total: 7
+[20:48:18] Jogador 'Ana' entrou no jogo (127.0.0.1:58197)
+[20:48:23] Ana recebeu a carta 8. Total: 8
+[20:48:27] Ana recebeu a carta 6. Total: 14
+[20:48:30] Pedro recebeu a carta 3. Total: 10
+[20:48:31] Pedro recebeu a carta 2. Total: 12
+[20:48:35] Pedro recebeu a carta 5. Total: 17
+[20:48:36] Pedro recebeu a carta 7. Total: 24
+[20:48:40] Ana recebeu a carta 9. Total: 23
+[20:48:40] Pedro PERDEU com 24 pontos.
+[20:48:40] Ana PERDEU com 23 pontos.
+[20:48:40] Rodada finalizada.
+[20:55:13] Jogador ']peedd' entrou no jogo (127.0.0.1:58034)
+[20:55:15] ]peedd recebeu a carta 5. Total: 5
+[20:55:21] Jogador 'ffdgfdg' entrou no jogo (127.0.0.1:65303)
+[20:55:22] ffdgfdg recebeu a carta 2. Total: 2
+[20:55:26] ]peedd recebeu a carta 4. Total: 9
+[20:55:30] ffdgfdg recebeu a carta 10. Total: 12
+[20:55:31] ffdgfdg recebeu a carta 2. Total: 14
+[20:55:31] ffdgfdg recebeu a carta 4. Total: 18
+[20:55:32] ffdgfdg recebeu a carta 2. Total: 20
+[20:55:35] ]peedd recebeu a carta 3. Total: 12
+[20:55:35] ]peedd recebeu a carta 1. Total: 13
+[20:55:36] ]peedd recebeu a carta 8. Total: 21
+[20:55:37] ]peedd recebeu a carta 10. Total: 31
+[20:55:41] ffdgfdg recebeu a carta 2. Total: 22
+[20:55:41] ]peedd PERDEU com 31 pontos.
+[20:55:41] ffdgfdg PERDEU com 22 pontos.
+[20:55:41] Rodada finalizada.
+[21:04:19] Jogador 'pEDRO' entrou no jogo (127.0.0.1:51065)
+[21:04:21] pEDRO recebeu a carta 4. Total: 4
+[21:04:33] Jogador 'aNA' entrou no jogo (127.0.0.1:53100)
+[21:04:35] aNA recebeu a carta 2. Total: 2
+[21:04:37] aNA recebeu a carta 5. Total: 7
+[21:04:40] pEDRO recebeu a carta 10. Total: 14
+[21:04:41] pEDRO recebeu a carta 1. Total: 15
+[21:04:42] pEDRO recebeu a carta 1. Total: 16
+[21:04:42] pEDRO recebeu a carta 6. Total: 22
+[21:04:46] aNA recebeu a carta 1. Total: 8
+[21:04:47] aNA recebeu a carta 10. Total: 18
+[21:04:47] aNA recebeu a carta 1. Total: 19
+[21:04:48] aNA recebeu a carta 8. Total: 27
+[21:04:48] pEDRO PERDEU com 22 pontos.
+[21:04:48] aNA PERDEU com 27 pontos.
+[21:04:48] Rodada finalizada.
+[21:07:43] Jogador 'Pedro' entrou no jogo (127.0.0.1:56377)
+[21:07:44] Pedro recebeu a carta 7. Total: 7
+[21:08:02] Jogador 'Everton' entrou no jogo (127.0.0.1:55787)
+[21:08:12] Jogador 'Maria' entrou no jogo (127.0.0.1:59813)
+[21:08:18] Pedro recebeu a carta 9. Total: 16
+[21:08:20] Pedro recebeu a carta 2. Total: 18
+[21:08:23] Maria recebeu a carta 4. Total: 4
+[21:08:26] Maria recebeu a carta 10. Total: 14
+[21:08:27] Maria recebeu a carta 11. Total: 25
+[21:08:31] Everton recebeu a carta 4. Total: 4
+[21:08:33] Everton recebeu a carta 2. Total: 6
+[21:08:34] Everton recebeu a carta 10. Total: 16
+[21:08:34] Everton recebeu a carta 4. Total: 20
+[21:08:36] Everton parou com 20 pontos.
+[21:08:40] Everton parou com 20 pontos.
+[21:08:46] Maria parou com 25 pontos.
+[21:08:49] Maria parou com 25 pontos.
+[21:08:52] Pedro parou com 18 pontos.
+[21:08:52] Pedro PERDEU com 18 pontos.
+[21:08:52] Everton GANHOU com 20 pontos.
+[21:08:52] Maria PERDEU com 25 pontos.
+[21:08:52] Rodada finalizada.

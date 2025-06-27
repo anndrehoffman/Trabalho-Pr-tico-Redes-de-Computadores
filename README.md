@@ -1,48 +1,30 @@
-# Trabalho-Prático-Redes-de-Computadores
+# Jogo de Cartas 21 (Blackjack) com Sockets UDP - C#
 
-# 🃏 Jogo de Cartas “21” – Cliente/Servidor em C#
+Este projeto é um trabalho prático da disciplina de Redes de Computadores. Ele implementa o jogo de cartas "21" (Blackjack) com comunicação via Sockets UDP.
 
-## 🎯 Propósito do Projeto
+## 🖥️ Requisitos
 
-Este projeto implementa uma versão em rede do clássico jogo de cartas “21”, no qual jogadores tentam acumular pontos até chegar o mais próximo possível de 21 sem ultrapassar esse valor. A arquitetura é baseada no modelo cliente-servidor: o servidor gerencia o jogo, as cartas e as pontuações, enquanto os clientes representam os jogadores que se conectam e interagem com o jogo.
+- .NET SDK 6.0 ou superior
+- Visual Studio Code ou outro editor C#
 
----
+## ▶️ Como executar
 
-## 💻 Linguagem Utilizada
+### 1. Rodar o servidor
 
-- C# 
-- Projeto estruturado com duas aplicações: `Servidor` e `Cliente`.
+Abra o terminal e digite:
 
----
-
-## 🔧 Como Compilar
-
-### ✅ Pré-requisitos
-
-- [.NET 7 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/7.0) instalado no sistema.
-- Um terminal ou prompt de comando.
-
-### 🧱 Compilação
-
-Abra o terminal na raiz do repositório e execute:
-
-``bash
+```bash
 cd Servidor
-dotnet build
+dotnet run
+```
+### 2. Rodar o cliente (em outro terminal)
 
-cd ../Cliente
-dotnet build
-``
-## 🕹️ Comandos do Jogo (pelo Cliente)
+```bash
+cd Cliente
+dotnet run
+```
+### 📄 Log das partidas
 
-Durante a execução do cliente, o jogador deve interagir via menus no terminal:
+O servidor salva todas as ações (entradas, cartas, paradas, resultado) no arquivo `log.txt` automaticamente.
 
-### 📋 Menu Inicial
-- `1` → Entrar no jogo
-- `2` → Sair
-
-### 🎯 Durante a Jogada
-- `1` → 🃏 Pedir uma carta
-- `2` → ✋ Parar (finalizar sua rodada)
-
-
+Você pode abri-lo após o jogo terminar.

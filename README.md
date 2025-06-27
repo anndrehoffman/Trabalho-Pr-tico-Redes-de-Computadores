@@ -26,9 +26,23 @@ Este projeto implementa uma versão em rede do clássico jogo de cartas “21”
 
 Abra o terminal na raiz do repositório e execute:
 
-```bash
+``bash
 cd Servidor
 dotnet build
 
 cd ../Cliente
 dotnet build
+``
+## 🕹️ Comandos do Jogo (pelo Cliente)
+
+Durante a execução do cliente, o jogador deve interagir via menus no terminal:
+
+### 📋 Menu Inicial
+- `1` → Entrar no jogo
+- `2` → Sair
+
+### 🎯 Durante a Jogada
+- `1` → 🃏 Pedir uma carta
+- `2` → ✋ Parar (finalizar sua rodada)
+
+

@@ -1,0 +1,15 @@
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\bin\Debug\net7.0\Servidor.exe
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\bin\Debug\net7.0\Servidor.deps.json
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\bin\Debug\net7.0\Servidor.runtimeconfig.json
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\bin\Debug\net7.0\Servidor.dll
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\bin\Debug\net7.0\Servidor.pdb
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.csproj.AssemblyReference.cache
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.AssemblyInfo.cs
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.dll
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\refint\Servidor.dll
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.pdb
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\Servidor.genruntimeconfig.cache
+C:\Users\Pedro Lopes\Desktop\Jogo de Cartas “21”\Servidor\obj\Debug\net7.0\ref\Servidor.dll
